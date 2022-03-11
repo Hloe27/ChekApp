@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChekApp</string>
+    <string name="txt_Val1">Ingresar el primer valor</string>
+    <string name="txt_val2">Ingresar el segundo valor</string>
+    <string name="cbk_Suma">Suma</string>
+    <string name="cbk_Resta">Resta</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="txt_Resultado">Resultado</string>
+
+</resources>
